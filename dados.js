@@ -1,3 +1,5 @@
+alert("Olá, para gerar o PDF clique em OK em seguida clique no botão VERDE Gerar PDF. Boa Sorte!")
+console.log("Para gerar PDF!")
 const urlParams = new URLSearchParams(window.location.search);
 const dadosJSON = urlParams.get('dados');
 const dadosFormulario = JSON.parse(decodeURIComponent(dadosJSON));
