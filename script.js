@@ -1,3 +1,5 @@
+alert("Olá Professor, bem vido ao seu plano de ensino, para continuar clique em OK!")
+console.log("Olá Professor!")
 let qtdInput = 0;
 var valoresInputs = [];
 var unidadeTematica = document.getElementById("unidadeTematica");
