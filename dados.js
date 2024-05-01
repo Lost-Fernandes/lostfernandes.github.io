@@ -36,7 +36,7 @@ function gerarPDF() {
   const documento = {
       content: [
 
-          { text: 'Plano de Ensino - Fundamental', style: 'header', alignment: 'center' },
+          { text: 'Plano de Ensino - Fundamental - 2024', style: 'header', alignment: 'center' },
 
           {
             "nodeName": "HR",
